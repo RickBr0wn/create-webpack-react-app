@@ -13,7 +13,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "Rick Brown <ricky.brown.00@gmail.com> (https://github.com/RickBr0wn/minimal-react-boilerplate)",
+  "author": "Rick Brown <ricky.brown.00@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RickBr0wn/create-webpack-react-app/issues"
