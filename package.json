@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Rick Brown <ricky.brown.00@gmail.com>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickBr0wn/create-webpack-react-app.git"
+  },
+  "author": "Rick Brown <ricky.brown.00@gmail.com> (https://github.com/RickBr0wn/minimal-react-boilerplate)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RickBr0wn/create-webpack-react-app/issues"
+  },
+  "homepage": "https://github.com/RickBr0wn/create-webpack-react-app#readme"
 }
